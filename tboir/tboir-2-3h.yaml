@@ -97,6 +97,12 @@ The Binding of Isaac Repentance:
   start_hints: []
   start_location_hints: []
   exclude_locations:
+    - Burning Basement - Arcade
+    - Burning Basement - Boss Room
+    - Burning Basement - Challenge Room
+    - Burning Basement - Curse Room
+    - Burning Basement - Deal Room
+    - "Burning Basement - Item #1"
     - "Burning Basement - Item #10"
     - "Burning Basement - Item #2"
     - "Burning Basement - Item #3"
