@@ -1,0 +1,43 @@
+Unlocks:
+
+We Need To Go Deeper! (Shovel) ->	Womb
+									Sheol
+									Crawl Space
+
+Undefined ->	I AM ERROR
+				Chest
+				Dark Room
+				
+Telescope Lens ->	Planetarium
+
+Red Key	-> Ultra Secret Room
+
+###############################################
+
+Reverse Unlocks:
+
+Womb <-	Womb
+			or
+		We Need to Go Deeper! (Shovel)
+
+Sheol <-	Sheol
+			or
+			We Need to Go Deeper! (Shovel)
+
+Chest <-	The Polaroid
+			or
+			Undefined
+			
+Dark Room <-	The Negative
+				or
+				(
+					Undefined
+					and
+					Sheol
+					and
+					Any Womb Floor
+				)
+
+Corpse <-	Knife Pieces
+			and
+			Alt Floors
