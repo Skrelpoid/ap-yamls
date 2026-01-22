@@ -533,6 +533,7 @@ The Binding of Isaac Repentance:
     - Womb - Boss Room
     - Womb - Deal Room
     - Womb - Item #1
+    from_pool: false
   - item:
       Dross Unlock: 1
     locations:
